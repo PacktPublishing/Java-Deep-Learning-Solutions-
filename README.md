@@ -8,10 +8,10 @@ In this course, you start by installing Deep Learning software for Java. You lea
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Learn professional programming in JavaScript 
-<LI>Learn to implement important Data Structures like Stacks, Queues, Hash tables and Graphs 
-<LI>Learn to be a better programmer by wisely choosing your data structures while building your next software 
-<LI>Master core concepts behind the Data Structures </LI></UL></DIV>
+<LI>Install various Deep Learning applications 
+<LI>Work with Perceptron in Neural Network
+<LI>Implement the XOR using Neural Network
+<LI>Use Recurrent Network and its Architecture </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
