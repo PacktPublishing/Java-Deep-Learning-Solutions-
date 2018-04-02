@@ -15,7 +15,7 @@ In this course, you start by installing Deep Learning software for Java. You lea
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
+
 If you are a machine learning expert looking to expand your knowledge by delving into the practical aspects of Deep Learning with Java, then this is the course you need. An understanding of Deep learning concepts would be an advantage but not necessary. A strong understanding of the Java Programming Language is mandatory for the video course
 
 
